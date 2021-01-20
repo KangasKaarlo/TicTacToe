@@ -6,5 +6,3 @@ TO COMPILE AND RUN
     java Main
 LANGUAGE
 The program was written in java
-WHY
-This was a project work on a university course.
